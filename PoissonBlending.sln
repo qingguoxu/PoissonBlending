@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PoissonBlending", "PoissonBlending\PoissonBlending.vcxproj", "{5CE71F98-76CC-4D6A-BA55-E53DE9B05E7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PoissonBlending_Yuan", "PoissonBlending_Yuan\PoissonBlending_Yuan.vcxproj", "{8886571F-908C-4A35-A996-D95FB418AD6D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PoissonBlending_xqg", "PoissonBlending_xqg\PoissonBlending_xqg.vcxproj", "{EC7D7E3D-79A8-448E-92FD-DE3D3763AF7A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PoissonBlending_opencv249", "PoissonBlending_opencv249\PoissonBlending_opencv249.vcxproj", "{3135CAE8-FB48-4F79-ACEF-489857DE9B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE71F98-76CC-4D6A-BA55-E53DE9B05E7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CE71F98-76CC-4D6A-BA55-E53DE9B05E7C}.Debug|Win32.Build.0 = Debug|Win32
+		{5CE71F98-76CC-4D6A-BA55-E53DE9B05E7C}.Release|Win32.ActiveCfg = Release|Win32
+		{5CE71F98-76CC-4D6A-BA55-E53DE9B05E7C}.Release|Win32.Build.0 = Release|Win32
+		{8886571F-908C-4A35-A996-D95FB418AD6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8886571F-908C-4A35-A996-D95FB418AD6D}.Debug|Win32.Build.0 = Debug|Win32
+		{8886571F-908C-4A35-A996-D95FB418AD6D}.Release|Win32.ActiveCfg = Release|Win32
+		{8886571F-908C-4A35-A996-D95FB418AD6D}.Release|Win32.Build.0 = Release|Win32
+		{EC7D7E3D-79A8-448E-92FD-DE3D3763AF7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC7D7E3D-79A8-448E-92FD-DE3D3763AF7A}.Debug|Win32.Build.0 = Debug|Win32
+		{EC7D7E3D-79A8-448E-92FD-DE3D3763AF7A}.Release|Win32.ActiveCfg = Release|Win32
+		{EC7D7E3D-79A8-448E-92FD-DE3D3763AF7A}.Release|Win32.Build.0 = Release|Win32
+		{3135CAE8-FB48-4F79-ACEF-489857DE9B90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3135CAE8-FB48-4F79-ACEF-489857DE9B90}.Debug|Win32.Build.0 = Debug|Win32
+		{3135CAE8-FB48-4F79-ACEF-489857DE9B90}.Release|Win32.ActiveCfg = Release|Win32
+		{3135CAE8-FB48-4F79-ACEF-489857DE9B90}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
